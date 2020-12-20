@@ -29,6 +29,23 @@ public class CubeRep {
         }
     }
 
+    public String findSolution() {
+        return "";
+    }
+
+    public boolean isSolved() {
+        for (int i = 0; i < COLORS.length; i++) {
+            for (int j = 0; j < 3; j++) {
+                for (int k = 0; k < 3; k++) {
+                    if (!c[i][j][k].equals(COLORS[i])) {
+                        return false;
+                    }
+                }
+            }
+        }
+        return true;
+    }
+
     public Color getColor(int c, int x, int y) {
         return this.c[c][x][y];
     }

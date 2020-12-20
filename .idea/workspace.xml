@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="614af308-3632-4684-a0f0-a7e31177429d" name="Default Changelist" comment="" />
+    <list default="true" id="614af308-3632-4684-a0f0-a7e31177429d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cubeUI/CubeFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cubeUI/CubeFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/obj/CubeRep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/obj/CubeRep.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,12 +15,16 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1lqPCtDsSDiTcx4jGTWeEEldTnb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -27,6 +36,7 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
@@ -50,9 +60,22 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CubeRepTest.testRots">
+  <component name="RunManager" selected="Application.CubeFrame">
     <configuration name="CubeFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cubeUI.CubeFrame" />
+      <module name="cube" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cubeUI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cubeUI.Main" />
       <module name="cube" />
       <extension name="coverage">
         <pattern>
@@ -82,8 +105,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CubeRepTest.testRots" />
         <item itemvalue="Application.CubeFrame" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.CubeRepTest.testRots" />
       </list>
     </recent_temporary>
   </component>
@@ -97,7 +121,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608321523272</updated>
-      <workItem from="1608321527451" duration="11422000" />
+      <workItem from="1608321527451" duration="12769000" />
+      <workItem from="1608417120780" duration="4403000" />
     </task>
     <servers />
   </component>
@@ -113,38 +138,42 @@
       <screen x="0" y="0" width="1300" height="960" />
     </state>
     <state x="382" y="256" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1300.960/-1920.-125.1920.999@0.0.1300.960" timestamp="1608325469793" />
-    <state width="1257" height="255" key="GridCell.Tab.0.bottom" timestamp="1608336132374">
+    <state width="1257" height="255" key="GridCell.Tab.0.bottom" timestamp="1608439929643">
       <screen x="0" y="0" width="1300" height="960" />
     </state>
-    <state width="1257" height="255" key="GridCell.Tab.0.bottom/0.0.1300.960/-1920.-125.1920.999@0.0.1300.960" timestamp="1608336132374" />
-    <state width="1257" height="255" key="GridCell.Tab.0.center" timestamp="1608336132374">
+    <state width="1257" height="255" key="GridCell.Tab.0.bottom/0.0.1300.960/-1920.-125.1920.999@0.0.1300.960" timestamp="1608439929643" />
+    <state width="1257" height="255" key="GridCell.Tab.0.center" timestamp="1608439929642">
       <screen x="0" y="0" width="1300" height="960" />
     </state>
-    <state width="1257" height="255" key="GridCell.Tab.0.center/0.0.1300.960/-1920.-125.1920.999@0.0.1300.960" timestamp="1608336132374" />
-    <state width="1257" height="255" key="GridCell.Tab.0.left" timestamp="1608336132374">
+    <state width="1257" height="255" key="GridCell.Tab.0.center/0.0.1300.960/-1920.-125.1920.999@0.0.1300.960" timestamp="1608439929642" />
+    <state width="1257" height="255" key="GridCell.Tab.0.left" timestamp="1608439929642">
       <screen x="0" y="0" width="1300" height="960" />
     </state>
-    <state width="1257" height="255" key="GridCell.Tab.0.left/0.0.1300.960/-1920.-125.1920.999@0.0.1300.960" timestamp="1608336132374" />
-    <state width="1257" height="255" key="GridCell.Tab.0.right" timestamp="1608336132374">
+    <state width="1257" height="255" key="GridCell.Tab.0.left/0.0.1300.960/-1920.-125.1920.999@0.0.1300.960" timestamp="1608439929642" />
+    <state width="1257" height="255" key="GridCell.Tab.0.right" timestamp="1608439929642">
       <screen x="0" y="0" width="1300" height="960" />
     </state>
-    <state width="1257" height="255" key="GridCell.Tab.0.right/0.0.1300.960/-1920.-125.1920.999@0.0.1300.960" timestamp="1608336132374" />
-    <state width="1257" height="187" key="GridCell.Tab.1.bottom" timestamp="1608335530801">
+    <state width="1257" height="255" key="GridCell.Tab.0.right/0.0.1300.960/-1920.-125.1920.999@0.0.1300.960" timestamp="1608439929642" />
+    <state width="1257" height="187" key="GridCell.Tab.1.bottom" timestamp="1608401768592">
       <screen x="0" y="0" width="1300" height="960" />
     </state>
-    <state width="1257" height="187" key="GridCell.Tab.1.bottom/0.0.1300.960/-1920.-125.1920.999@0.0.1300.960" timestamp="1608335530801" />
-    <state width="1257" height="187" key="GridCell.Tab.1.center" timestamp="1608335530801">
+    <state width="1257" height="187" key="GridCell.Tab.1.bottom/0.0.1300.960/-1920.-125.1920.999@0.0.1300.960" timestamp="1608401768592" />
+    <state width="1257" height="187" key="GridCell.Tab.1.center" timestamp="1608401768591">
       <screen x="0" y="0" width="1300" height="960" />
     </state>
-    <state width="1257" height="187" key="GridCell.Tab.1.center/0.0.1300.960/-1920.-125.1920.999@0.0.1300.960" timestamp="1608335530801" />
-    <state width="1257" height="187" key="GridCell.Tab.1.left" timestamp="1608335530801">
+    <state width="1257" height="187" key="GridCell.Tab.1.center/0.0.1300.960/-1920.-125.1920.999@0.0.1300.960" timestamp="1608401768591" />
+    <state width="1257" height="187" key="GridCell.Tab.1.left" timestamp="1608401768591">
       <screen x="0" y="0" width="1300" height="960" />
     </state>
-    <state width="1257" height="187" key="GridCell.Tab.1.left/0.0.1300.960/-1920.-125.1920.999@0.0.1300.960" timestamp="1608335530801" />
-    <state width="1257" height="187" key="GridCell.Tab.1.right" timestamp="1608335530801">
+    <state width="1257" height="187" key="GridCell.Tab.1.left/0.0.1300.960/-1920.-125.1920.999@0.0.1300.960" timestamp="1608401768591" />
+    <state width="1257" height="187" key="GridCell.Tab.1.right" timestamp="1608401768592">
       <screen x="0" y="0" width="1300" height="960" />
     </state>
-    <state width="1257" height="187" key="GridCell.Tab.1.right/0.0.1300.960/-1920.-125.1920.999@0.0.1300.960" timestamp="1608335530801" />
+    <state width="1257" height="187" key="GridCell.Tab.1.right/0.0.1300.960/-1920.-125.1920.999@0.0.1300.960" timestamp="1608401768592" />
+    <state x="349" y="304" key="com.intellij.ide.util.TipDialog" timestamp="1608417122186">
+      <screen x="0" y="0" width="1300" height="960" />
+    </state>
+    <state x="349" y="304" key="com.intellij.ide.util.TipDialog/0.0.1300.960/-1920.-125.1920.999@0.0.1300.960" timestamp="1608417122186" />
     <state x="379" y="374" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1608325477935">
       <screen x="0" y="0" width="1300" height="960" />
     </state>
